@@ -1,0 +1,25 @@
+body{
+    color:rgb(40, 4, 75);
+    background: rgb(65, 65, 162);
+    margin: 0px;
+    font-family: "Lora", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px lime;
+    padding: 20px;
+    font-size: 32px;
+    color: lime;
+}
+
+section{
+    background: rgb(31, 151, 135);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
